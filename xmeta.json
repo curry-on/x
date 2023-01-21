@@ -1,0 +1,40 @@
+{
+  "verification":"93dfa4284891706878",
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "",
+    "location": "",
+    "social": {
+      "twitter_handle": "CurryonCrypto",
+      "telegram_handle": "CurryOn",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": "http(s) url to valid RSS feed"
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "96449f370656b2d484db0f2efa1333d57a5c4ab536d48443a1c186b0"
+  ],
+  "when-satured-then-recommend": [
+    "96449f370656b2d484db0f2efa1333d57a5c4ab536d48443a1c186b0"
+  ]
+}
